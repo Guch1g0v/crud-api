@@ -25,7 +25,6 @@ export default [
       'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
       'no-shadow': 'error',
       'no-duplicate-imports': 'error',
-      'consistent-return': 'error',
       'import/prefer-default-export': 'off',
       '@typescript-eslint/no-explicit-any': 'error',
       '@typescript-eslint/no-unused-vars': [
